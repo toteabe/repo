@@ -5,5 +5,3 @@
  * @author usuario
  *
  */
-module prueba {
-}
